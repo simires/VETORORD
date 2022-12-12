@@ -5,7 +5,7 @@
 git clone https://github.com/simires/VETORORD.git
 ```
 
-## Como compilar o códigoo:
+## Como compilar o código:
 ```bash
 cd VETORORD
 gcc TR4_535741.c <sua_main.c> -o vetorord
